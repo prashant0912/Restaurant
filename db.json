@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "URU BREWPARK",
+      "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/u/y/p20941-15700828565d959028e9f28.jpg?tr=tr:n-medium",
+      "votes": 246,
+      "Reviews": 164,
+      "Cost": 600,
+      "Payment": "Cash",
+      "Categories": "Vegetarian and Non-vegetarian",
+      "rating": "4.5"
+    },
+    {
+      "id": 2,
+      "name": "KHANA KHAZANA",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-p/19/9d/2d/f7/getlstd-property-photo.jpg",
+      "votes": 386,
+      "Reviews": 449,
+      "Cost": 500,
+      "Payment": "Card",
+      "Categories": "Vegetarian",
+      "rating": "4.1"
+    },
+    {
+      "id": 3,
+      "name": "PEACOCK RESTAURANT",
+      "img": "https://content3.jdmagicbox.com/comp/delhi/t6/011pxx11.xx11.160623191150.l8t6/catalogue/peacock-restaurant-tughlakabad-extension-delhi-home-delivery-restaurants-b45n9e.jpg",
+      "votes": 482,
+      "Reviews": 343,
+      "Cost": 700,
+      "Payment": "Upi",
+      "Categories": "Vegetarian and Non-vegetarian",
+      "rating": "3.0"
+    },
+    {
+      "id": 4,
+      "name": "CHEF PAJI",
+      "img": "https://b.zmtcdn.com/data/pictures/9/19150159/c28c30dfc4a68ea5e082d421061ff9fd_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "votes": 197,
+      "Reviews": 268,
+      "Cost": 300,
+      "Payment": "UPI",
+      "Categories": "Vegetarian",
+      "rating": "2.5"
+    },
+    {
+      "id": 5,
+      "name": "LG'S FOOD",
+      "img": "https://content.jdmagicbox.com/comp/bangalore/g2/080pxx80.xx80.180206190256.e6g2/catalogue/hotel-gurukrupa-bhats-canteen-peenya-bangalore-restaurants-v16f6.jpg",
+      "votes": 364,
+      "Reviews": 480,
+      "Cost": 900,
+      "Payment": "UPI",
+      "Categories": "Non-vegetarian",
+      "rating": "3.6"
+    },
+    {
+      "id": 6,
+      "name": "FOODIES RESTAURANT",
+      "img": "https://content.jdmagicbox.com/comp/gwalior/p8/9999px751.x751.161123154108.w3p8/catalogue/foodies-restaurant-gwalior-aakhb.jpg",
+      "votes": 376,
+      "Reviews": 434,
+      "Cost": 300,
+      "Payment": "Cash",
+      "Categories": "Vegetarian and Non-vegetarian",
+      "rating": "3.1"
+    },
+    {
+      "id": 7,
+      "name": "KHAO KHILAO RESTAURANT",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w_hgSC4Le8YTachGyFXvG2YeRdJXAKcMNg&usqp=CAU",
+      "votes": 289,
+      "Reviews": 256,
+      "Cost": 700,
+      "Payment": "Cash",
+      "Categories": "Non-vegetarian",
+      "rating": "2.9"
+    },
+    {
+      "id": 8,
+      "name": "SHAKAHARI BHOJNALYA",
+      "img": "https://static2.tripoto.com/media/filter/tst/img/15546/TripDocument/1460104333_junoon_indian_restaurant_in_new_york_city_7.jpg",
+      "votes": 264,
+      "Reviews": 155,
+      "Cost": 200,
+      "Payment": "UPI",
+      "Categories": "Vegetarian",
+      "rating": "1.5"
+    },
+    {
+      "id": 9,
+      "name": "BABA KA DHABA",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93RrpFpYFAsiwrwOsFpYBRVn--oNDr3czPw&usqp=CAU",
+      "votes": 331,
+      "Reviews": 374,
+      "Cost": 450,
+      "Payment": "UPI",
+      "Categories": "Non-vegetarian",
+      "rating": "2.5"
+    },
+    {
+      "id": 10,
+      "name": "CHILIES FOOD",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/df/64/3f/all-day-dining-edesia.jpg",
+      "votes": 414,
+      "Reviews": 356,
+      "Cost": 670,
+      "Payment": "Card",
+      "Categories": "Vegetarian and Non-vegetarian",
+      "rating": "5.0"
+    },
+    {
+      "id": 11,
+      "name": "FOOD CORNER",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-indian-restaurants-1643028398.jpg?crop=0.502xw:1.00xh;0.0962xw,0&resize=640:*",
+      "votes": 276,
+      "Reviews": 463,
+      "Cost": 560,
+      "Payment": "UPI",
+      "Categories": "Vegetarian",
+      "rating": "3.3"
+    },
+    {
+      "id": 12,
+      "name": "CHICK N FOODS",
+      "img": "https://static.onecms.io/wp-content/uploads/sites/9/2021/03/10/spicy-chicken-curry-FT-RECIPE0321.jpg",
+      "votes": 107,
+      "Reviews": 355,
+      "Cost": 400,
+      "Payment": "UPI",
+      "Categories": "Non-vegetarian",
+      "rating": "4.9"
+    },
+    {
+      "id": 13,
+      "name": "KAILASH DA DHABA",
+      "img": "https://c.ndtvimg.com/2020-09/if4pp5j8_vegetarian_625x300_30_September_20.jpg",
+      "votes": 372,
+      "Reviews": 413,
+      "Cost": 600,
+      "Payment": "Card",
+      "Categories": "Vegetarian",
+      "rating": "3.8"
+    },
+    {
+      "id": 14,
+      "name": "JOHN'S FOOD",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/08/c6/20/2e/john-s-as-seen-from-across.jpg",
+      "votes": 232,
+      "Reviews": 492,
+      "Cost": 700,
+      "Payment": "UPI",
+      "Categories": "Non-vegetarian"
+    },
+    {
+      "id": 15,
+      "name": "RAJA KA DHABA",
+      "img": "https://assets.gqindia.com/photos/5e2eeafd7df8190008b4f942/master/pass/mumbai-restaurants-open-for-24-hours.jpg",
+      "votes": 286,
+      "Reviews": 462,
+      "Cost": 900,
+      "Payment": "UPI",
+      "Categories": "Vegetarian",
+      "rating": "1.2"
+    },
+    {
+      "id": 16,
+      "name": "HEALTHY FOODS",
+      "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/8/l/j/p87534-161719349660646a18dc26a.jpg?tr=tr:n-medium",
+      "votes": 366,
+      "Reviews": 371,
+      "Cost": 400,
+      "Payment": "Cash",
+      "Categories": "Vegetarian",
+      "rating": "2.3"
+    },
+    {
+      "id": 17,
+      "name": "BURGER KING",
+      "img": "https://imageio.forbes.com/specials-images/dam/imageserve/1058912512/0x0.jpg?format=jpg&width=1200",
+      "votes": 149,
+      "Reviews": 217,
+      "Cost": 800,
+      "Payment": "UPI",
+      "Categories": "Vegetarian",
+      "rating": "3.7"
+    },
+    {
+      "id": 18,
+      "name": "KFC",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKm5ymgVTe8z2q8alU1nTyoefA-kngytWUA&usqp=CAU",
+      "votes": 331,
+      "Reviews": 152,
+      "Cost": 300,
+      "Payment": "UPI",
+      "Categories": "Non-vegetarian",
+      "rating": "4.6"
+    },
+    {
+      "id": 19,
+      "name": "LASIS FOOD",
+      "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/5/i/v/p56531-15571387595cd00d473a224.jpg?tr=tr:n-xlarge",
+      "votes": 402,
+      "Reviews": 208,
+      "Cost": 500,
+      "Payment": "UPI",
+      "Categories": "Vegetarian",
+      "rating": "1.5"
+    },
+    {
+      "id": 20,
+      "name": "SUBWAY",
+      "img": "https://cdn.britannica.com/08/193908-050-66767D57/view-Subway-restaurant-Bangkok-Thailand.jpg",
+      "votes": 328,
+      "Reviews": 157,
+      "Cost": 900,
+      "Payment": "Cash",
+      "Categories": "Non-vegetarian",
+      "rating": "3.4"
+    },
+    {
+      "name": "Mst Dhaba",
+      "img": "https://d4t7t8y8xqo0t.cloudfront.net/app/eazymedia/restaurant%2F110025%2Frestaurant020160519143002.jpg",
+      "votes": "23",
+      "Reviews": "500",
+      "Cost": "200",
+      "Payment": "Cash",
+      "Categories": "vegetarian",
+      "rating": "4.8",
+      "id": 21
+    }
+    
+  ]
+}
